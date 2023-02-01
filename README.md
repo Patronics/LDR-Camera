@@ -3,7 +3,7 @@ My 2013 project to make a rudimentary camera out of a grid of light dependent re
 
 #### example photo (actually captured with this camera!)
 
-![A 7x7 pixel black and white picture, showing a tall and narrow window as a slightly lighter grey rectangle than the background](https://www.patronics.org/uploads/1/0/5/9/10597534/published/9771797.png)
+![A 7x7 pixel black and white picture, showing a tall and narrow window as a slightly lighter grey rectangle than the background](https://www.patronics.org/uploads/1/0/5/9/10597534/published/9771797.png "sunlight coming through a tall and narrow window")
 
 ![A photo of the green circuit board of the project, most of which is filled by a grid of spots to insert the LDR sensors](https://www.patronics.org/uploads/1/0/5/9/10597534/440453754.jpg)
 
