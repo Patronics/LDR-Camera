@@ -12,4 +12,4 @@ My 2013 project to make a rudimentary camera out of a grid of light dependent re
 - Upload the .bas program of choice to the PICAXE 40X2.
 - Press the shutter button if enabled on the script of choice
 - connect the PICAXE to the computer, copy and paste output from the serial monitor into a text file (output is a newline delimited file of integers)
-- run `echo textFileFromPreviousStep.txt > ./picaxecam inputBMPWithMatchinDimensionsToDesiredOutput.bmp outputFileName.bmp`
+- run `echo textFileFromPreviousStep.txt > ./picaxecam inputBMPWithMatchingDimensionsToDesiredOutput.bmp outputFileName.bmp`
